@@ -1,5 +1,7 @@
 COVID-19 Power BI Report
+
 Overview
+
 This Power BI report provides an analysis of COVID-19 data from January 2020 to July 2020. The report includes key metrics such as total cases, total deaths, and total recoveries, with daily updates provided country-wise. The purpose of this report is to offer insights into the spread and impact of COVID-19 across different regions and time periods.
 
 Data
